@@ -1,5 +1,5 @@
 # moscowmap
-Link: https://moscow-map-3e25f.web.app/
+Demo url: https://moscow-map-3e25f.web.app/
 
 ## Project setup
 ```
