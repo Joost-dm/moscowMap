@@ -8,7 +8,7 @@ Task:
 2. Display them on map;
 3. Display a round chart of positioning these points at Moscow's districts;
 4. Realize at the round chart controls of displaying points: show/hide points after the click of the chart's slice. 
-5. Add a button for regenerating points. The refreshment of page's component must be realized without a refreshment of whole page.
+5. Add a button for regenerating points. The refreshment of page's components must be realized without a refreshment of whole page.
 
 ## Project setup
 ```
